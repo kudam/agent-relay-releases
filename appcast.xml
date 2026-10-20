@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Agent Relay</title>
+        <item>
+            <title>0.1.6</title>
+            <pubDate>Tue, 20 Oct 2026 08:20:14 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/kudam/agent-relay-releases/releases/tag/v0.1.6</sparkle:fullReleaseNotesLink>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://kudam.github.io/agent-relay-releases/downloads/AgentRelay-0.1.6.zip" length="5048427" type="application/octet-stream" sparkle:edSignature="9vlDgO9PbtPDn4c2usspKWVWauZl2xotfTsgeeGBitc8ihoqWmHFS8mlbk6wgv+OdEHgYNkENL+M46p9tCDtDQ=="/>
+        </item>
+    </channel>
+</rss>
